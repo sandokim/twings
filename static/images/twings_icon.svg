@@ -34,10 +34,10 @@
   <rect width="1200" height="900" fill="url(#bg)"/>
 
   <!-- table shadow -->
-  <ellipse cx="620" cy="610" rx="345" ry="95" fill="#6a4330" opacity="0.16" filter="url(#soft)"/>
+  <ellipse cx="620" cy="655" rx="455" ry="122" fill="#6a4330" opacity="0.16" filter="url(#soft)"/>
 
   <!-- wrapped chocolate bar -->
-  <g transform="translate(600 440) rotate(-13)" filter="url(#shadow)">
+  <g transform="translate(600 462) rotate(-13) scale(1.42)" filter="url(#shadow)">
     <!-- left twist -->
     <g transform="translate(-320 0)">
       <path d="M0,-85

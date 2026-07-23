@@ -1,14 +1,27 @@
-# Nerfies
+# TWINGS Project Page
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+Source code for the project page of:
 
-If you find Nerfies useful for your work please cite:
+**TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting**
+
+CVPR 2026
+
+- Project page: https://sandokim.github.io/twings/
+- Paper: https://arxiv.org/abs/2605.22069
+- Code: https://github.com/sandokim/TWINGS-official
+
+## License
+
+This repository contains the source code for the TWINGS project website.
+If you find TWINGS useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@InProceedings{Kim_2026_CVPR,
+author    = {Kim, Hyeseong and Son, Geonhui and Lee, Deukhee and Hwang, Dosik},
+title     = {TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month     = {June},
+year      = {2026},
+pages     = {26062-26071}
 }
 ```
 
